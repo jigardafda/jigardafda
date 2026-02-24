@@ -1,4 +1,4 @@
-# Hi, I’m Jigar Dafda 👋
+# Hi, I’m Jigar Dafda
 
 🚀 CTPO @ Fynd | AI-First Commerce Infrastructure Architect  
 🧠 Building scalable platforms powering billions in GMV  
