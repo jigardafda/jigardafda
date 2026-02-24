@@ -71,9 +71,9 @@ I specialize in **platform thinking**, **AI-powered engineering workflows**, and
 
 ## 📊 GitHub Stats
 
-![Jigar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigardafda&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jigardafda&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigardafda&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jigardafda&layout=compact&theme=radical)
 
 ---
 
