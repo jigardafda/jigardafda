@@ -25,11 +25,11 @@ I specialize in **platform thinking**, **AI-powered engineering workflows**, and
 ## 🏢 Platforms & Products I Lead at Fynd
 
 - 🛒 Fynd Commerce Platform (enterprise commerce infra)
-- 🤖 Copilot (AI for commerce & operations)
+- 🛍 Fynd StoreOS: POS, Scan & Go & In-store digital platforms
+- 💳 Fynd Forge (Manufacturing Execution System)
+- 🤖 Kaily Copilot (AI for commerce & operations)
 - 🧱 Boltic (workflow & automation engine)
 - 🖼 Pixelbin (media & asset infrastructure)
-- 🛍 POS, Scan & Go & In-store digital platforms
-- 💳 Settle (financial infra for merchants)
 
 ---
 
